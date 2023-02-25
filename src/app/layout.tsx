@@ -26,7 +26,7 @@ export default function RootLayout({
   return (
     <html 
       lang="en"
-      className='bg-zinc-900'
+      className='bg-zinc-800 text-white font-montserrat'
     >
       <body>{children}</body>
     </html>
